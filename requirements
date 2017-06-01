@@ -6,3 +6,12 @@
   <a href="mailto:example@example.com">Example Email</a>
   Верстка телефону скайп
   <a href="callto:01234567890">01234 567 890</a>
+4. Верстка форми пошуку 
+  <form action="#" class = "search-form">
+    <div class="search-form-wrapper">
+      <input type="search" class = "search-field" value="">
+      <button type = "submit" class = "search-btn" title = 'поиск' >
+          <i class="fa fa-search" aria-hidden="true"></i>
+      </button>
+    </div>
+  </form>
